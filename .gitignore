@@ -1,0 +1,12 @@
+# ASI microdata is confidential: never commit data, logs or outputs.
+data/
+output/
+*.dta
+*.csv
+*.xlsx
+*.xls
+*.log
+*.smcl
+*.txt
+!requirements.txt
+.DS_Store
